@@ -1,0 +1,24 @@
+{
+  "name": "utilityman",
+  "version": "1.0.0",
+  "description": "Yet another JavaScript utility library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/temelm/utilityman.git"
+  },
+  "keywords": [
+    "javascript",
+    "utility",
+    "library"
+  ],
+  "author": "Mustafa Temel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/temelm/utilityman/issues"
+  },
+  "homepage": "https://github.com/temelm/utilityman#readme"
+}
